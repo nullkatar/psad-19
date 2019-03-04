@@ -15,6 +15,8 @@
 ## Лекция 3: непараметрические гипотезы
 * Слайды: https://github.com/Intelligent-Systems-Phystech/psad-19/blob/master/slides/lecture_3_nonparam.pdf
 * Ноутбуки: https://github.com/Intelligent-Systems-Phystech/psad-19/tree/master/notebooks/notebooks_3_nht
-* Анкета: https://goo.gl/forms/kOPWwn6EPzaX8pgk1
 
-__На семинаре будет проверочная работа__
+## Лекция 4: множественная проверка гипотез
+* Слайды: https://github.com/Intelligent-Systems-Phystech/psad-19/blob/master/slides/lecture_4_mht.pdf
+* Ноутбуки (в том числе заполненный): https://github.com/Intelligent-Systems-Phystech/psad-19/tree/master/notebooks/notebooks_4_mht
+* Анкета: https://goo.gl/forms/rfMa1qyN3Aun1kRr2
